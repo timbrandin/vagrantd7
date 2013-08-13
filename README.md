@@ -2,6 +2,12 @@
 
 This is vagrant environment is suited for D7 development.
 
+# Prerequisits for Mac OSX
+## Download
+* Vagrant
+* Virtual Box
+* Drush
+
 # Setting it up
 run "make core", this will set you up with the lasted version D7 core and put it in
 the "web" directory.
