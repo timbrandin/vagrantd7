@@ -1,4 +1,4 @@
-# Drupal 8 vagrant box
+# Drupal 7 vagrant box
 
 This is vagrant environment is suited for D8 development.
 
