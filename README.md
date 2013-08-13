@@ -2,8 +2,7 @@
 
 This is vagrant environment is suited for D7 development.
 
-# Prerequisits for Mac OSX
-Download:
+# Prerequisits for OSX
 * Vagrant
 * Virtual Box
 * Drush
