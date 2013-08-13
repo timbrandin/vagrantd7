@@ -11,9 +11,9 @@ core = 8.x
 
 ; Drupal project.
 projects[drupal][type] = core
-projects[drupal][version] = 8.x
+projects[drupal][version] = 7.x
 projects[drupal][download][type] = git
-projects[drupal][download][branch] = 8.x
+projects[drupal][download][branch] = 7.x
 
 
 
